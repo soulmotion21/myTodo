@@ -1,0 +1,13 @@
+#app {
+  display: flex;
+}
+
+.user-container {
+  width: 300px;
+}
+
+.user-container .user-item {
+  text-decoration: underline;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
